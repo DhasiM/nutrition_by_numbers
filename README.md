@@ -19,8 +19,27 @@
 * Scikitlearn
 
 ## Data Sources
-* [World Bank]()
-* [Food and Agiculturla Organisation]()
+* ## Challenges
+
+* Finding data with the right information
+* Software: Most releases are for windows and MacOS
+* Dashboards are designed for time-series data and many are unable to graph data without a standard DateTime format
+* Database stopped functioning and lost all the data during re-install
+* Database has errors connecting to colab
+* Jupyter Lab on local machine couldn't import keras models
+
+## Lessons Learned
+* Open source data is varied and unstructured
+* Using relational databases reduces the work of transforming and processing data
+ 
+## Resources
+* [MariaDB docs](https://mariadb.org/documentation/)
+* [MySQL tutorial](https://www.w3schools.com/sql/)
+* [Keras docs](https://www.tensorflow.org/api_docs/python/tf/keras)
+* [Food Security and Machine Learning](https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13214)
+* [World Bank Data](https://databank.worldbank.org/source/world-development-indicators#)
+* [FAO Data](https://www.fao.org/faostat/en/#data)
+* [Slemma Dashboard](https://slemma.com/infographics/665681)
 
 ## Model
 
